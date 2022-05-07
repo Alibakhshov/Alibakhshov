@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alibakhshov&layout=compact&theme=dark"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibakhshov&theme=dark"/>
+
+[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4) [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rauf-alibakhshov-6b5aa5210/)
+
+<a href="https://www.linkedin.com/in/rauf-alibakhshov-6b5aa5210/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+
