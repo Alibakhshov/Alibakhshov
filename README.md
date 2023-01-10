@@ -47,7 +47,7 @@ I am a motivated and skilled full-stack developer with a passion for creating vi
 </a>
 
 <a href="www.linkedin.com/in/alibakhshov">
-    <img height="20" src="img/instagram.png"/>
+    <img height="20" src="img/linkedin.png"/>
 </a>
 
 <a href="www.instagram.com/alibaxshovv">
