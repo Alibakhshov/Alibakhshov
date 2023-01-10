@@ -43,17 +43,17 @@ I am a motivated and skilled full-stack developer with a passion for creating vi
 
 ## 🔗 Connect With Me
 <a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-    <img height="30" src="img/spotify.png"/>
+    <img height="35" src="img/spotify.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/alibakhshov/">
-    <img height="30" src="img/linkedin.png"/>
+    <img height="35" src="img/linkedin.png"/>
 </a>
 
 <a href="https://www.instagram.com/alibaxshovv/?next=%2F">
-    <img height="30" src="img/instagram.png"/>
+    <img height="35" src="img/instagram.png"/>
 </a>
 
 <a href="">
-    <img height="30" src="img/gmail.png"/>
+    <img height="35" src="img/gmail.png"/>
 </a>
