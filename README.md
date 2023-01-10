@@ -12,7 +12,7 @@
 
 | Statistic | Value |
 | --- | --- |
-| 🌐 Language | [![Language](https://img.shields.io/github/languages/top/Alibakhshov/repo?style=flat-square)](https://github.com/yourusername) |
+| 🌐 Language | [![Language](https://img.shields.io/github/languages/top/Alibakhshov/Django-Contact-Form?style=flat-square)](https://github.com/yourusername) |
 | 📊 Commits | [![Commits](https://img.shields.io/github/commit-activity/m/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
 | 🌟 Stars | [![Stars](https://img.shields.io/github/stars/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
 | 🍴 Forks | [![Forks](https://img.shields.io/github/forks/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
