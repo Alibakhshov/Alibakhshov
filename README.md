@@ -16,7 +16,7 @@
 |   Statistic    |    Value    |
 |----------------|-------------|
 | Followers      | [![Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)  |
-| Repositories   | [![Repos](https://img.shields.io/github/repos/yourusername?style=social)](https://github.com/yourusername)  |
+| Repositories   | [![Repos](https://img.shields.io/github/repos/Alibakhshov?style=social)](https://github.com/yourusername)  |
 | Stars          | [![Stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername)  |
 | Forks          | [![Forks](https://img.shields.io/github/forks/yourusername?style=social)](https://github.com/yourusername)  |
 | Last Commit    | [![Last Commit](https://img.shields.io/github/last-commit/yourusername?style=social)](https://github.com/yourusername)  |
