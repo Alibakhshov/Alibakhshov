@@ -1,4 +1,7 @@
 root{
-    align-items: space-between;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     
 }
