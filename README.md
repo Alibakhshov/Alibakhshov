@@ -1,20 +1,7 @@
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/master/path/to/your/image" alt="Your Name" width="200" height="200"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-Full-Stack-blueviolet?style=flat-square" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Languages-JavaScript, Python, Java, C%23, TypeScript-brightgreen?style=flat-square" alt="Programming languages"/>
-  <img src="https://img.shields.io/badge/Tools-JavaScript, Python, Java, C%23, TypeScript-brightgreen?style=flat-square" alt="Programming languages"/>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alibakhshov&show_icons=true&theme=dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alibakhshov&layout=compact&theme=dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibakhshov&theme=dark"/>
 
 ## 📄About Me
 
@@ -33,10 +20,17 @@ I am a motivated and skilled full-stack developer with a passion for creating vi
 - 🌐 **Web Developer** at ABC Corp. (2018-2020)
 - 💻 **Internship as a Software Engineer** at LMNOP Inc. (2017)
 
-## 🔥 My Projects
-- 🌐 [**Project name**](https://github.com/yourusername/projectname) - A **brief** description of the **project** and its **purpose**. Built with React and Firebase.
-- 💻 [**Project name**](https://github.com/yourusername/projectname) - A **brief** description of the **project** and its **purpose**. Built with Python and MongoDB.
-- 🔥 [**Project name**](https://github.com/yourusername/projectname) - A **brief** description of the **project** and its **purpose**. Built with Angular and Azure.
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Full-Stack-blueviolet?style=flat-square" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Languages-JavaScript, Python, Java, C%23, TypeScript-brightgreen?style=flat-square" alt="Programming languages"/>
+  <img src="https://img.shields.io/badge/Tools-JavaScript, Python, Java, C%23, TypeScript-brightgreen?style=flat-square" alt="Programming languages"/>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alibakhshov&show_icons=true&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alibakhshov&layout=compact&theme=dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibakhshov&theme=dark"/>
 
 ## 🎓 My Education
 - 🎓 **Bachelor of Science in Computer Science** from XYZ University (2015-2019)
