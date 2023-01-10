@@ -53,3 +53,7 @@ I am a motivated and skilled full-stack developer with a passion for creating vi
 <a href="www.instagram.com/alibaxshovv">
     <img height="20" src="img/instagram.png"/>
 </a>
+
+<a href="www.instagram.com/alibaxshovv">
+    <img height="20" src="img/gmail.png"/>
+</a>
