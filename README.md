@@ -55,5 +55,5 @@ I am a motivated and skilled full-stack developer with a passion for creating vi
 </a>
 
 <a href="">
-    <img height="35" space-between="gap" src="img/gmail.png"/>
+    <img height="35" flex-direction= "column" src="img/gmail.png"/>
 </a>
