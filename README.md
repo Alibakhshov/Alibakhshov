@@ -10,16 +10,12 @@
   <img src="https://img.shields.io/badge/Tools-JavaScript, Python, Java, C%23, TypeScript-brightgreen?style=flat-square" alt="Programming languages"/>
 </p>
 
-<h3 align="center">Your Name</h3>
-
-
-|   Statistic    |    Value    |
-|----------------|-------------|
-| Followers      | [![Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)  |
-| Repositories   | [![Repos](https://img.shields.io/github/repos/Alibakhshov?style=social)](https://github.com/yourusername)  |
-| Stars          | [![Stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername)  |
-| Forks          | [![Forks](https://img.shields.io/github/forks/yourusername?style=social)](https://github.com/yourusername)  |
-| Last Commit    | [![Last Commit](https://img.shields.io/github/last-commit/yourusername?style=social)](https://github.com/yourusername)  |
+| Statistic | Value |
+| --- | --- |
+| 🌟 Stars | [![Stars](https://img.shields.io/github/stars/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
+| 🍴 Forks | [![Forks](https://img.shields.io/github/forks/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
+| 📝 Last Commit | [![Last Commit](https://img.shields.io/github/last-commit/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
+| 👀 Watchers | [![Watchers](https://img.shields.io/github/watchers/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
 
 
 ## 📄About Me
