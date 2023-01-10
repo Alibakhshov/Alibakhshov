@@ -10,15 +10,20 @@
   <img src="https://img.shields.io/badge/Tools-JavaScript, Python, Java, C%23, TypeScript-brightgreen?style=flat-square" alt="Programming languages"/>
 </p>
 
-| Statistic | Value |
-| --- | --- |
-| 🌐 Language | [![Language](https://img.shields.io/github/languages/top/Alibakhshov/Django-Contact-Form)](https://github.com/Alibakhshov) |
-| 📊 Commits | [![Commits](https://img.shields.io/github/commit-activity/m/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
-| 🌟 Stars | [![Stars](https://img.shields.io/github/stars/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
-| 🍴 Forks | [![Forks](https://img.shields.io/github/forks/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
-| 📝 Last Commit | [![Last Commit](https://img.shields.io/github/last-commit/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
-| 👀 Watchers | [![Watchers](https://img.shields.io/github/watchers/yourusername/repo?style=flat-square)](https://github.com/yourusername) |
+<img src="https://github-readme-stats.vercel.app/api?username=Alibakhshov&show_icons=true&theme=dark"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alibakhshov&layout=compact&theme=dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibakhshov&theme=dark"/>
+
+
+<a href="https://www.linkedin.com/in/rauf-alibakhshov-6b5aa5210/">
+    <img height="20" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+
+<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+    <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
+</a>
 
 ## 📄About Me
 
