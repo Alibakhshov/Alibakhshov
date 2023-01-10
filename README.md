@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-Full-Stack-blueviolet?style=flat-square" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Languages-JavaScript, Python, Java, C%23, TypeScript-brightgreen?style=flat-square" alt="Programming languages"/>
+  <img src="https://img.shields.io/badge/Tools-JavaScript, Python, Java, C%23, TypeScript-brightgreen?style=flat-square" alt="Programming languages"/>
 </p>
 
 <h3 align="center">Your Name</h3>
