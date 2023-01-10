@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-## 📄About Me
-
 I am a motivated and skilled full-stack developer with a passion for creating visually stunning and user-friendly web applications. I have experience in multiple technologies and am always eager to take on new challenges and expand my skill set.
 
 🚀 I use daily:
