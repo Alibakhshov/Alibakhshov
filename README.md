@@ -10,10 +10,10 @@
   <a href="https://stackoverflow.com/users/yourid">
     <img src="https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/yourid" alt="StackOverflow" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Alibakhshov">
     <img src="https://img.shields
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://https://github.com/Alibakhshov">
     <img src="https://img.shields.io/github/stars/yourusername/repo?style=flat-square" alt="Stars" />
   </a>
   <a href="https://github.com/yourusername">
