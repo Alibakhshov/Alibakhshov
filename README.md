@@ -30,11 +30,10 @@ I am a motivated and skilled full-stack developer with a passion for creating vi
 
 ## Statistics
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alibakhshov&show_icons=true&theme=dark"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibakhshov&theme=dark"/>
-</div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alibakhshov&layout=compact&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alibakhshov&show_icons=true&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibakhshov&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alibakhshov&layout=compact&theme=dark"/>
 
 
 ## 🔗 Connect With Me
