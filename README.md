@@ -38,9 +38,7 @@ I am a motivated and skilled full-stack developer with a passion for creating vi
 
 ## 🔗 Connect With Me
 
-<div display="flex" flex-direction: column;
-    justify-content: center;
-    align-items: center;>
+<div display="flex" flex-direction= "column" justify-content="center" align-items= "center">
     <a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
         <img height="35" src="img/spotify.png"/>
     </a>
