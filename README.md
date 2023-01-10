@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/master/path/to/your/image" alt="Your Name" width="200" height="200"/>
 </p>
@@ -9,6 +11,15 @@
 </p>
 
 <h3 align="center">Your Name</h3>
+
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/yourusername?style=social" alt="Repositories" />
+  <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/yourusername?style=social" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/yourusername?style=social" alt="Last Commit" />
+</p>
 
 ## 📄About Me
 
