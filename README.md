@@ -15,10 +15,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Alibakhshov?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/yourusername?style=social" alt="Repositories" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/yourusername?style=social" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/yourusername?style=social" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repos/Alibakhshov?style=social" alt="Repositories" />
+  <img src="https://img.shields.io/github/stars/Alibakhshov?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/Alibakhshov?style=social" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/Alibakhshov?style=social" alt="Last Commit" />
 </p>
 
 ## 📄About Me
