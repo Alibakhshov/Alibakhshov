@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Alibakhshov?style=social" alt="Followers" />
   <img src="https://img.shields.io/github/repos/yourusername?style=social" alt="Repositories" />
   <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="Stars" />
   <img src="https://img.shields.io/github/forks/yourusername?style=social" alt="Forks" />
