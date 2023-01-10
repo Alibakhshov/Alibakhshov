@@ -1,4 +1,3 @@
-# :wave: Hi, I'm Your Name 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/master/path/to/your/image" alt="Your Name" width="200"/>
 </p>
@@ -12,38 +11,50 @@
     <img src="https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/yourid" alt="StackOverflow" />
   </a>
   <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/-GitHub-lightgrey?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername" alt="GitHub" />
+    <img src="https://img.shields
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/stars/yourusername/repo?style=flat-square" alt="Stars" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/forks/yourusername/repo?style=flat-square" alt="Forks" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/github/last-commit/yourusername/repo?style=flat-square" alt="Last Commit" />
   </a>
 </p>
 
 ---
 
-## 🔥 Skills
-- 💻 Programming languages: JavaScript, Python, Java, C#, TypeScript
-- 🌐 Web development: React, Angular, Vue.js, HTML, CSS, SASS
-- 💾 Databases: MongoDB, MySQL, Firebase
-- 💻 Cloud platforms: AWS, Azure, Firebase
-- 🛠️ Tools: Git, Webpack, Node.js
-- 🔥 Strong problem-solving skills
+## 🔥 About Me
+I am a motivated and skilled full-stack developer with a passion for creating visually stunning and user-friendly web applications. I have experience in multiple technologies and am always eager to take on new challenges and expand my skill set.
 
-## 🚀 Experience
+## 💻 My Skills
+- 🚀 **Full Stack Development**: Proficient in React, Angular, Vue.js, Node.js, and Express.js
+- 💻 **Programming languages**: Proficient in JavaScript, Python, Java, C#, TypeScript
+- 🌐 **Web development**: HTML, CSS, SASS, Bootstrap
+- 💾 **Databases**: MySQL, MongoDB, Firebase
+- 🌩️ **Cloud platforms**: AWS, Azure, Firebase
+- 🛠️ **Tools**: Git, Webpack, Node.js
+- 🔥 Strong **problem-solving skills**
+
+## 🚀 My Experience
 - 💻 **Full Stack Developer** at XYZ Inc. (2020-Present)
-- 🌐 **Web Developer** at ABC Corp. (2018-2020)
-- 💻 **Internship as a Software Engineer** at LMNOP Inc. (2017)
 
-## 🔥 Projects
+## 🔥 My Projects
 - 🌐 [**Project name**](https://github.com/yourusername/projectname) - A **brief** description of the **project** and its **purpose**. Built with React and Firebase.
 - 💻 [**Project name**](https://github.com/yourusername/projectname) - A **brief** description of the **project** and its **purpose**. Built with Python and MongoDB.
 - 🔥 [**Project name**](https://github.com/yourusername/projectname) - A **brief** description of the **project** and its **purpose**. Built with Angular and Azure.
 
-## 🎓 Education
+## 🎓 My Education
 - 🎓 **Bachelor of Science in Computer Science** from XYZ University (2015-2019)
 
-## 📱 Contact
+## 📱 Contact Me
 - 📧 **Email:** yourname@email.com
 - 📞 **Phone:** 555-555-5555
 
-## 🔗 Connect
+## 🔗 Connect With Me
 - [**LinkedIn**](https://www.linkedin.com/in/yourusername)
 - [**StackOverflow**](https://stackoverflow.com/users/yourid)
 - [**GitHub**](https://github.com/yourusername)
+
