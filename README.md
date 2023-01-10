@@ -26,15 +26,14 @@ I am a motivated and skilled full-stack developer with a passion for creating vi
 - 🌐 **Web Developer** at ABC Corp. (2018-2020)
 - 💻 **Internship as a Software Engineer** at LMNOP Inc. (2017)
 ## 🎓 My Education
-- 🎓 **Bachelor of Science in Computer Science** from XYZ University (2015-2019)
+- 🎓 **High school Diploma** from Aga Khan lycee, Khorog (2009 - 2020) 
+- 🎓 **Bachelor of Science in Computer Science** from University of Central Asia (2020 - up to date) 
 
 ## Statistics
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alibakhshov&show_icons=true&theme=dark"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibakhshov&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alibakhshov&layout=compact&theme=dark"/>
-
 
 ## 🔗 Connect With Me
 
