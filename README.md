@@ -16,15 +16,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alibakhshov&theme=dark"/>
 
-
-<a href="https://www.linkedin.com/in/rauf-alibakhshov-6b5aa5210/">
-    <img height="20" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
-
-<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-    <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-</a>
-
 ## 📄About Me
 
 I am a motivated and skilled full-stack developer with a passion for creating visually stunning and user-friendly web applications. I have experience in multiple technologies and am always eager to take on new challenges and expand my skill set.
@@ -50,12 +41,10 @@ I am a motivated and skilled full-stack developer with a passion for creating vi
 ## 🎓 My Education
 - 🎓 **Bachelor of Science in Computer Science** from XYZ University (2015-2019)
 
-## 📱 Contact Me
-- 📧 **Email:** yourname@email.com
-- 📞 **Phone:** 555-555-5555
-
 ## 🔗 Connect With Me
-- [**LinkedIn**](https://www.linkedin.com/in/yourusername)
-- [**StackOverflow**](https://stackoverflow.com/users/yourid)
-- [**GitHub**](https://github.com/yourusername)
-
+<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+    <img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
+</a>
+<a href="www.linkedin.com/in/alibakhshov">
+    <img height="20" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
