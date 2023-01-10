@@ -13,13 +13,14 @@
 <h3 align="center">Your Name</h3>
 
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Alibakhshov?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/Alibakhshov?style=social" alt="Repositories" />
-  <img src="https://img.shields.io/github/stars/Alibakhshov?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/Alibakhshov?style=social" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/Alibakhshov?style=social" alt="Last Commit" />
-</p>
+|   Statistic    |    Value    |
+|----------------|-------------|
+| Followers      | [![Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)  |
+| Repositories   | [![Repos](https://img.shields.io/github/repos/yourusername?style=social)](https://github.com/yourusername)  |
+| Stars          | [![Stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername)  |
+| Forks          | [![Forks](https://img.shields.io/github/forks/yourusername?style=social)](https://github.com/yourusername)  |
+| Last Commit    | [![Last Commit](https://img.shields.io/github/last-commit/yourusername?style=social)](https://github.com/yourusername)  |
+
 
 ## 📄About Me
 
